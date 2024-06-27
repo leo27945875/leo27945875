@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Leetcode Stats](https://leetcode.com/u/leo27945875/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/leo27945875?theme=dark&font=Fenix&ext=heatmap)
